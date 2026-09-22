@@ -2,7 +2,7 @@
 
 **Senior Systems Administrator | DevOps & Cloud Infrastructure Automation**
 
-Salem, MA &nbsp;|&nbsp; +1 (617) 606-4830 &nbsp;|&nbsp; [Michael.Macdonald@macado.org](mailto:Michael.Macdonald@macado.org)
+Salem, MA &nbsp;|&nbsp; +1 (617) 606-4830 &nbsp;|&nbsp; [macado@gmail.com](mailto:macado@gmail.com)
 
 📄 [Download PDF resume](./Macdonald_Resume_DevOps_SysAdmin.pdf)
 
