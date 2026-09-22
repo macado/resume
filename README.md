@@ -31,8 +31,11 @@ Senior Systems Administrator with 15+ years of enterprise infrastructure experie
 **Monitoring & Logging**
 `Splunk` `Elasticsearch` `Syslog-ng` `Nagios` `Icinga` `CrowdStrike Falcon`
 
-**Networking, Storage & Identity**
-`F5 BIG-IP LTM / GTM` `NetApp OnTap` `EMC Networker` `Active Directory / LDAP` `Microsoft Entra ID` `Duo Security (MFA)` `Shibboleth / SAML` `CyberArk Conjur`
+**Networking & Storage**
+`F5 BIG-IP LTM / GTM` `NetApp OnTap` `EMC Networker`
+
+**Identity & Access Management**
+`Active Directory / LDAP` `Microsoft Entra ID (SSO, SCIM provisioning)` `Grouper` `Shibboleth (SAML: IdP & SP)` `Duo Security (MFA)` `CyberArk Conjur`
 
 **Web & Application**
 `Apache` `Nginx`
@@ -52,6 +55,7 @@ Senior Systems Administrator with 15+ years of enterprise infrastructure experie
 - Lead the ongoing migration from Puppet to Ansible Automation Platform (AAP), refactoring legacy Puppet code into Ansible playbooks to manage a fleet of approximately 700 RHEL virtual machines.
 - Deploy and support Red Hat OpenShift (Kubernetes) on VMware vSphere to run containerized workloads.
 - Contributed to deployment and support of AWS Landing Zone Accelerator in a multi-account AWS environment, including IAM configuration and VPC networking.
+- Administer identity and access management across Microsoft Entra ID and on-premises Active Directory, including SSO application integrations and SCIM-based provisioning (GitHub, AWS); use Grouper for group-based provisioning into Entra ID and on-prem AD, and operate Shibboleth as both Identity Provider (IdP) and Service Provider (SP) for SAML federated authentication.
 - Perform full-lifecycle RHEL system administration, including installation, patching and package management, compiling open-source software, troubleshooting, monitoring, user account management, and backups.
 - Support DevOps-style CI/CD for a load-balanced, Nginx-based Drupal hosting environment, using Jenkins and Git for automated build and deployment pipelines.
 
